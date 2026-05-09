@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm @architec-shadow 🛡️
 
-<!--
-**architec-shadow/architec-shadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Infrastructure Architect | Red Teaming | Web3 Security Researcher
 
-Here are some ideas to get you started:
+Highly technical professional focused on building resilient infrastructure and automating offensive/defensive security workflows. Currently exploring smart contract vulnerabilities and decentralized protocols.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Expertise
+
+* **Infrastructure:** Docker (Orchestration & Lab Deployment), Linux Hardening, Nginx/Reverse Proxies.
+* **Offensive Security:** Red Teaming (Evilginx, Gophish), Phishing Simulation, OSINT.
+* **Automation & Data:** Playwright (Advanced Scraping), Python, Telegram Bot API integration.
+* **Web3:** Smart Contract Auditing, Slither, Mythril, Dework/Gitcoin contributor.
+
+---
+
+### 🚀 Ongoing Projects
+- **[Private-Lab-v2]:** Advanced multi-container phishing & traffic funneling infra.
+- **[Distributed-Scraping-Engine]:** High-concurrency market analysis via Playwright.
+
+---
+
+*“Security is not a product, but a process.”*
